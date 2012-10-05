@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="E:/project/ssec/workspace/renewal-ui/cosme/jkvss/lib/jkvs.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/logback-access-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-1.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jkvs.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
